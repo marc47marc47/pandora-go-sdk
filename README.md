@@ -6,6 +6,7 @@
 
 # Pandora SDK使用说明
 
+version 1.1
 ## 简述
 
 Pandora SDK是pandora服务一个golang版本的SDK。包含pipeline、tsdb和logdb三种服务的SDK。

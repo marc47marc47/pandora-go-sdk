@@ -11,11 +11,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qiniu/x/log"
 	"github.com/marc47marc47/pandora-go-sdk/base"
 	"github.com/marc47marc47/pandora-go-sdk/base/models"
 	"github.com/marc47marc47/pandora-go-sdk/base/reqerr"
 	"github.com/marc47marc47/pandora-go-sdk/base/request"
+	"github.com/marc47marc47/pandora-go-sdk/log"
 	"github.com/marc47marc47/pandora-go-sdk/logdb"
 	"github.com/marc47marc47/pandora-go-sdk/tsdb"
 )

@@ -12,12 +12,12 @@ import (
 	"time"
 
 	"github.com/qiniu/x/log"
-	"github.com/qiniu/pandora-go-sdk/base"
-	"github.com/qiniu/pandora-go-sdk/base/models"
-	"github.com/qiniu/pandora-go-sdk/base/reqerr"
-	"github.com/qiniu/pandora-go-sdk/base/request"
-	"github.com/qiniu/pandora-go-sdk/logdb"
-	"github.com/qiniu/pandora-go-sdk/tsdb"
+	"github.com/marc47marc47/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base/models"
+	"github.com/marc47marc47/pandora-go-sdk/base/reqerr"
+	"github.com/marc47marc47/pandora-go-sdk/base/request"
+	"github.com/marc47marc47/pandora-go-sdk/logdb"
+	"github.com/marc47marc47/pandora-go-sdk/tsdb"
 )
 
 const (

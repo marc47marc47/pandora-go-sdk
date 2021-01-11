@@ -13,14 +13,14 @@ import (
 	"strings"
 
 	"github.com/qiniu/x/log"
-	"github.com/qiniu/pandora-go-sdk/base"
-	"github.com/qiniu/pandora-go-sdk/base/config"
-	"github.com/qiniu/pandora-go-sdk/base/models"
-	"github.com/qiniu/pandora-go-sdk/base/reqerr"
-	"github.com/qiniu/pandora-go-sdk/base/request"
-	"github.com/qiniu/pandora-go-sdk/logdb"
-	"github.com/qiniu/pandora-go-sdk/pipeline"
-	"github.com/qiniu/pandora-go-sdk/tsdb"
+	"github.com/marc47marc47/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base/config"
+	"github.com/marc47marc47/pandora-go-sdk/base/models"
+	"github.com/marc47marc47/pandora-go-sdk/base/reqerr"
+	"github.com/marc47marc47/pandora-go-sdk/base/request"
+	"github.com/marc47marc47/pandora-go-sdk/logdb"
+	"github.com/marc47marc47/pandora-go-sdk/pipeline"
+	"github.com/marc47marc47/pandora-go-sdk/tsdb"
 	"github.com/stretchr/testify/assert"
 )
 

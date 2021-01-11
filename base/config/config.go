@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"github.com/qiniu/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base"
 )
 
 type Config struct {

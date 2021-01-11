@@ -1,6 +1,6 @@
 package report
 
-import "github.com/qiniu/pandora-go-sdk/base/reqerr"
+import "github.com/marc47marc47/pandora-go-sdk/base/reqerr"
 
 type ReportToken struct {
 	Token string `json:"-"`

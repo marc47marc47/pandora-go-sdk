@@ -8,9 +8,9 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	. "github.com/qiniu/pandora-go-sdk/base"
-	"github.com/qiniu/pandora-go-sdk/base/config"
-	. "github.com/qiniu/pandora-go-sdk/tsdb"
+	. "github.com/marc47marc47/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base/config"
+	. "github.com/marc47marc47/pandora-go-sdk/tsdb"
 )
 
 var (

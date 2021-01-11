@@ -3,9 +3,9 @@ package logkit
 import (
 	"time"
 
-	"github.com/qiniu/pandora-go-sdk/base"
-	"github.com/qiniu/pandora-go-sdk/base/config"
-	"github.com/qiniu/pandora-go-sdk/logkit"
+	"github.com/marc47marc47/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base/config"
+	"github.com/marc47marc47/pandora-go-sdk/logkit"
 )
 
 var (

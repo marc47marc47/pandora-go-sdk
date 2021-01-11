@@ -11,9 +11,9 @@ import (
 
 	"github.com/qiniu/x/log"
 
-	"github.com/qiniu/pandora-go-sdk/base"
-	. "github.com/qiniu/pandora-go-sdk/base/models"
-	"github.com/qiniu/pandora-go-sdk/base/reqerr"
+	"github.com/marc47marc47/pandora-go-sdk/base"
+	. "github.com/marc47marc47/pandora-go-sdk/base/models"
+	"github.com/marc47marc47/pandora-go-sdk/base/reqerr"
 )
 
 const (

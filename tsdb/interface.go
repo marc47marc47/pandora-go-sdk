@@ -1,7 +1,7 @@
 package tsdb
 
 import (
-	"github.com/qiniu/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base"
 )
 
 type TsdbAPI interface {

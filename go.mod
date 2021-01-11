@@ -1,4 +1,4 @@
-module github.com/qiniu/pandora-go-sdk
+module github.com/marc47marc47/pandora-go-sdk
 
 go 1.12
 

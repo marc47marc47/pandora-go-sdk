@@ -7,11 +7,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/qiniu/pandora-go-sdk/base"
-	"github.com/qiniu/pandora-go-sdk/base/config"
-	"github.com/qiniu/pandora-go-sdk/base/models"
-	"github.com/qiniu/pandora-go-sdk/base/reqerr"
-	"github.com/qiniu/pandora-go-sdk/logdb"
+	"github.com/marc47marc47/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base/config"
+	"github.com/marc47marc47/pandora-go-sdk/base/models"
+	"github.com/marc47marc47/pandora-go-sdk/base/reqerr"
+	"github.com/marc47marc47/pandora-go-sdk/logdb"
 	"github.com/stretchr/testify/assert"
 )
 

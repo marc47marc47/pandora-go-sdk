@@ -3,7 +3,7 @@ package tsdb
 import (
 	"os"
 
-	. "github.com/qiniu/pandora-go-sdk/base"
+	. "github.com/marc47marc47/pandora-go-sdk/base"
 )
 
 func (c *Tsdb) CreateRepo(input *CreateRepoInput) (err error) {

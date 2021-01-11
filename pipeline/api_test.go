@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/qiniu/pandora-go-sdk/base/config"
+	"github.com/marc47marc47/pandora-go-sdk/base/config"
 	"github.com/stretchr/testify/assert"
 )
 

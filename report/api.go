@@ -1,6 +1,6 @@
 package report
 
-import . "github.com/qiniu/pandora-go-sdk/base"
+import . "github.com/marc47marc47/pandora-go-sdk/base"
 
 func (c *Report) ActivateUser(input *UserActivateInput) (output *UserActivateOutput, err error) {
 	op := c.newOperation(OpActivateUser)

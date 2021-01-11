@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/qiniu/pandora-go-sdk/base/config"
+	"github.com/marc47marc47/pandora-go-sdk/base/config"
 )
 
 func BenchmarkGzip(b *testing.B) {

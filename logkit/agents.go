@@ -6,8 +6,8 @@ import (
 
 	"github.com/google/go-querystring/query"
 
-	"github.com/qiniu/pandora-go-sdk/base"
-	. "github.com/qiniu/pandora-go-sdk/base/models"
+	"github.com/marc47marc47/pandora-go-sdk/base"
+	. "github.com/marc47marc47/pandora-go-sdk/base/models"
 )
 
 type CPUInfo struct {

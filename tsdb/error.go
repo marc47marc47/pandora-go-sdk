@@ -3,7 +3,7 @@ package tsdb
 import (
 	"fmt"
 
-	"github.com/qiniu/pandora-go-sdk/base/reqerr"
+	"github.com/marc47marc47/pandora-go-sdk/base/reqerr"
 )
 
 const errCodePrefixLen = 5

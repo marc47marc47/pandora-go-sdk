@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/qiniu/pandora-go-sdk/base"
-	"github.com/qiniu/pandora-go-sdk/base/config"
-	"github.com/qiniu/pandora-go-sdk/base/request"
+	"github.com/marc47marc47/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base/config"
+	"github.com/marc47marc47/pandora-go-sdk/base/request"
 )
 
 var builder errBuilder

@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/qiniu/pandora-go-sdk/logdb"
+	"github.com/marc47marc47/pandora-go-sdk/logdb"
 	"github.com/stretchr/testify/assert"
 )
 

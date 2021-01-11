@@ -1,6 +1,6 @@
 # Pandora SDK
 
-[![Build Status](https://travis-ci.org/qiniu/pandora-go-sdk.svg?branch=master)](https://travis-ci.org/qiniu/pandora-go-sdk) [![GoDoc](https://godoc.org/github.com/qiniu/pandora-go-sdk?status.svg)](https://godoc.org/github.com/qiniu/pandora-go-sdk)
+[![Build Status](https://travis-ci.org/qiniu/pandora-go-sdk.svg?branch=master)](https://travis-ci.org/qiniu/pandora-go-sdk) [![GoDoc](https://godoc.org/github.com/marc47marc47/pandora-go-sdk?status.svg)](https://godoc.org/github.com/marc47marc47/pandora-go-sdk)
 
 [![Qiniu Logo](http://open.qiniudn.com/logo.png)](http://www.qiniu.com/)
 
@@ -15,7 +15,7 @@ Pandora SDK是pandora服务一个golang版本的SDK。包含pipeline、tsdb和lo
 要使用pandora SDK，首先你得有一对七牛官网上申请的并经过实名认证的AK/SK，同时拿到pandora SDK的源码，然后就可以开启pandora的大数据之旅。步骤如下：
 
 1. 在官网获得经过身份认证的AK/SK；
-2. 通过`go get github.com/qiniu/pandora-go-sdk`拿到pandora SDK的源码；
+2. 通过`go get github.com/marc47marc47/pandora-go-sdk`拿到pandora SDK的源码；
 3. 将代码路径加到`GOPATH`里;
 4. 参照pandora sdk使用说明开始编写代码。
 
@@ -26,8 +26,8 @@ package main
 
 import (
     "log"
-    sdk "github.com/qiniu/pandora-go-sdk/pipeline"
-    sdkbase "github.com/qiniu/pandora-go-sdk/base"
+    sdk "github.com/marc47marc47/pandora-go-sdk/pipeline"
+    sdkbase "github.com/marc47marc47/pandora-go-sdk/base"
 )
 
 func main() {

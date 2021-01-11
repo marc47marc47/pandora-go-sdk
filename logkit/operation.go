@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/qiniu/pandora-go-sdk/base/request"
+	"github.com/marc47marc47/pandora-go-sdk/base/request"
 )
 
 const (

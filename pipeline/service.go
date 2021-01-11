@@ -8,12 +8,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/qiniu/pandora-go-sdk/base"
-	"github.com/qiniu/pandora-go-sdk/base/config"
-	"github.com/qiniu/pandora-go-sdk/base/ratelimit"
-	"github.com/qiniu/pandora-go-sdk/base/request"
-	"github.com/qiniu/pandora-go-sdk/logdb"
-	"github.com/qiniu/pandora-go-sdk/tsdb"
+	"github.com/marc47marc47/pandora-go-sdk/base"
+	"github.com/marc47marc47/pandora-go-sdk/base/config"
+	"github.com/marc47marc47/pandora-go-sdk/base/ratelimit"
+	"github.com/marc47marc47/pandora-go-sdk/base/request"
+	"github.com/marc47marc47/pandora-go-sdk/logdb"
+	"github.com/marc47marc47/pandora-go-sdk/tsdb"
 )
 
 var builder PipelineErrBuilder
